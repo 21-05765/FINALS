@@ -4,7 +4,7 @@ Automated Certificate Generate System for Barangay Balete
 SELF ASSESSMENT
 Based on the given rubric for grading, the group assesed the system and it resulted to this:
 
-MERTIC 4 3 2 1
+MERTIC      4 3 2 1
 HTML
 CSS
 JavaScript
