@@ -15,9 +15,9 @@ PEER EVALUATION
 
 SR-CODE                        Member               Grade   Designation
 21-09810@g.batstate-u.edu.ph   Ardo, Howell Kirby   %       Documentator
-21-09502@g.batstate-u.edu.ph   Capili, Arvy         %       Documentator
-21-08865@g.batstate-u.edu.ph   Magbojos, Christian  %       Documentator
-21-05765@g.batstate-u.edu.ph   Mazan, John Alvin    %       Programmer
+21-09502@g.batstate-u.edu.ph   Capili, Arvy         25%       Documentator
+21-08865@g.batstate-u.edu.ph   Magbojos, Christian  25%       Documentator
+21-05765@g.batstate-u.edu.ph   Mazan, John Alvin    50%       Programmer
 
 
 IT-BA 3104
