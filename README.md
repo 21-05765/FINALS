@@ -5,11 +5,11 @@
 ### Metrics
 | Metric     | 4    | 3    | 2    | 1    |
 |------------|------|------|------|------|
-| HTML       |      |      |      |      |
-| CSS        |      |      |      |      |
-| JavaScript |      |      |      |      |
-| Creativity |      |      |      |      |
-| Overall    |      |      |      |      |
+| HTML       |   ✓   |      |      |      |
+| CSS        |   ✓   |      |      |      |
+| JavaScript |   ✓   |      |      |      |
+| Creativity |   ✓   |      |      |      |
+| Overall    |   ✓   |      |      |      |
 
 ## Peer Evaluation
 
