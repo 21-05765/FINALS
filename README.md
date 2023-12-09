@@ -1,6 +1,6 @@
 # Automated Certificate Generation System for Barangay Balete
-## SGD 9 : Industry, Innovation and Infrastructure
-## Self Assessment
+## SGD 9: Industry, Innovation, and Infrastructure
+### Self Assessment
 
 ### Metrics
 | Metric     | 4    | 3    | 2    | 1    |
