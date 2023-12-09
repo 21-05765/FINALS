@@ -21,7 +21,10 @@
 | 21-05765@g.batstate-u.edu.ph   | Mazan, John Alvin   | 50%   | Programmer   |
 SYSTEM ASSETS
 <br><br><h1> Diagrams
-!
+![Context Diagram](https://github.com/JohnAlvinMazan/FINALS/blob/main/assests/DFD.png)<br>
+![Level 0](https://github.com/JohnAlvinMazan/FINALS/blob/main/assests/lvl0.png)<br>
+![Use Case](https://github.com/JohnAlvinMazan/FINALS/blob/main/assests/User%20Case.png)<br>
+![Sequence Diagram](https://github.com/JohnAlvinMazan/FINALS/blob/main/assests/Sequence.png)<br>
 <br><br><h1> System
 <br><br> Login
 ![LOGIN](https://github.com/JohnAlvinMazan/FINALS/blob/main/assests/Login.png)
