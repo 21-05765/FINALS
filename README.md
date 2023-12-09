@@ -23,9 +23,13 @@
 ## System Assets
 
 ### Diagrams
+- **Context Diagram**
 ![Context Diagram](https://github.com/JohnAlvinMazan/FINALS/blob/main/assests/DFD.png)<br>
+- **Level 0**
 ![Level 0](https://github.com/JohnAlvinMazan/FINALS/blob/main/assests/lvl0.png)<br>
+- **User Case**
 ![Use Case](https://github.com/JohnAlvinMazan/FINALS/blob/main/assests/User%20Case.png)<br>
+- **Sequence Diagram**
 ![Sequence Diagram](https://github.com/JohnAlvinMazan/FINALS/blob/main/assests/Sequence.png)<br>
 
 ### System Screenshots
